@@ -1,0 +1,9 @@
+//@http://algs4.cs.princeton.edu/code/
+//关于如何配置官网给的java库
+//
+//1.然后在我给的最上方的电子教材网页中下载“ algs4.jar”，下载好了放在你自己知道的电脑的哪儿就行
+
+//2.然后右击你建立的工程中的class，选择 "build path">"configure build path">"libraries">"add external JARS">找到刚才下载的algs4选“打开">"OK"
+
+//3.就可以用了，使用方法：现在屏幕上输入"Std"(或者不齐全都行)，然后按 "alt"+"/"的组合键,会出来一个条目让你选择补齐你要输入的东西，哎呀，我还不会在github上插图
+
